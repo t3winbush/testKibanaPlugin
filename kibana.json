@@ -1,0 +1,8 @@
+{
+  "id": "testPlugin3",
+  "version": "7.8.0",
+  "server": false,
+  "ui": true,
+  "requiredPlugins": ["navigation"],
+  "optionalPlugins": []
+}
